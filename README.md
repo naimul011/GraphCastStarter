@@ -7,7 +7,6 @@ This repository provides guidance on running the GraphCast weather forecasting m
 
 1. Connect to the remote server:
    - Use PuTTY or SSH via VSCode
-   - Server: login.delta.ncsa.illinois.edu
 
 2. Environment setup:
    ```bash
