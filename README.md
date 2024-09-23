@@ -2,6 +2,8 @@
 
 This repository provides guidance on running the GraphCast weather forecasting model on a remote GPU server.
 
+
+![alt text]([http://url/to/img.png](https://lh3.googleusercontent.com/xJi_k_ZjLpJNgfrcWGxSDtxtv_ZA17qvsYzqkl55jWM4sTLBLfO1XVKIBoMqnTk-1fSnxs58KssQuSJLhVXrFeS8FSz0RJ2bnITszAi67T5jDW4ttQ=w1072-h603-n-nu-rw)) 
 ## Setup
 
 1. Connect to the remote server:
