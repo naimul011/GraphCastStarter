@@ -22,8 +22,8 @@ from utils.params import *
 
 print('Parameters and Assumptions')
 
-url = 'https://cds.climate.copernicus.eu/api/v2'
-key = '291392:39f2eef0-a7b8-4ede-9014-061d3e548121'
+url = ''
+key = ''
 
 # Create the CDS API client instance with the specified configuration file
 client = cdsapi.Client(url=url, key=key)
